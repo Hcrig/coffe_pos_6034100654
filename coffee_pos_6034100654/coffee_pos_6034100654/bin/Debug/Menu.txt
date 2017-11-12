@@ -1,0 +1,42 @@
+Espresso,35 0
+Americano,35 1
+Latte,35 2
+Mocha,35 3
+Cappuccino,35 4
+Green Tea,20 5
+Thai Tea,20 6
+Cacoa,20 7
+Milk,20 8
+Milo,20 9 
+Nescafe,20  10
+NestcaTea,20 11
+Espresso,45	12
+Americano,45 13
+Latte,45 14
+Mocha,45 15
+Cappuccino,45 16
+Green Tea,25 17
+Thai Tea,25 18
+Cacoa,25 19
+Milk,25 20 
+Milk Tea,25 21
+Lemon Tea,25 22
+Milo,25 23
+Nescafe,25 24
+NestcaTea,25 25
+Italian Soda,25 26
+Red lime Soda,25 27
+Honey lime Soda,25 28
+Espresso,50	 29
+Latte,50 30 
+Mocha,50 31
+Cappuccino,50 32
+Green Tea,30 33
+Thai Tea,30 34
+Cacoa,30 35
+Milk,30 36
+Milk Tea,30 37
+Lemon Tea,30 38
+Milo,30 39
+Nescafe,30 40
+NestcaTea,30 41

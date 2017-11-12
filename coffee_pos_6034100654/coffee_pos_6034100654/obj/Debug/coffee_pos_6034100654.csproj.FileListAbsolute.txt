@@ -1,0 +1,10 @@
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\bin\Debug\coffee_pos_6034100654.exe.config
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\bin\Debug\coffee_pos_6034100654.exe
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\bin\Debug\coffee_pos_6034100654.pdb
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.Form1.resources
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.Properties.Resources.resources
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.csproj.GenerateResource.Cache
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.csproj.CoreCompileInputs.cache
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.exe
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.pdb
+C:\Users\Oxidations\source\repos\coffee_pos_6034100654\coffee_pos_6034100654\obj\Debug\coffee_pos_6034100654.csprojResolveAssemblyReference.cache
